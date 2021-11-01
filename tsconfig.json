@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "isolatedModules": false,
+    "incremental": true,
+    "esModuleInterop": true,
+    "jsx": "react",
+    "moduleResolution": "node",
+    "baseUrl": ".",
+  }
+}
